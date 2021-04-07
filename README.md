@@ -1,6 +1,7 @@
 # Deep-learning-class
 The raw data
 Images: please go to https://drive.google.com/open?id=1kwYYWL67O0Dcbx3dvZIfbGg9NiHdyisr 
+feature vector: please go to https://drive.google.com/drive/folders/1uAkHAp-GFZZolvCKVjjxcjA1ch1S6BaX?usp=sharing
 
 File name lists of images: ./data/train.txt, ./data/val.txt, and ./data/test.txt.
 
